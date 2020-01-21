@@ -12,6 +12,7 @@
 
     export const TEAMS = [
         "",
+        "KgpKubs",
         "AIS",
         "AMC",
         "CMμs",
